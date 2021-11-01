@@ -1,1 +1,277 @@
-{"@context":"http://schema.org","@graph":[{"@type":"Recipe","aggregateRating":{"@type":"AggregateRating","bestRating":"5","itemReviewed":"Ratatouille Sheet Pan Dinner With Sausage","ratingCount":3,"ratingValue":5,"worstRating":"1"},"author":{"@type":"Organization","name":"The Modern Proper","url":"https://themodernproper.com"},"copyrightHolder":{"@id":"https://themodernproper.com#identity"},"copyrightYear":"2020","creator":{"@id":"https://themodernproper.com#creator"},"dateModified":"2020-07-02T08:45:22-07:00","datePublished":"2020-07-02T08:00:42-07:00","description":"This sheet pan ratatouille recipe celebrates all of the olive-oil soaked flavors of the French country classic, but is bulked up into a one-pan meal thanks to the addition of hearty Italian sausages.","headline":"Ratatouille Sheet Pan Dinner With Sausage","image":[{"@type":"ImageObject","height":"1000","url":"https://images.themodernproper.com/billowy-turkey/production/posts/2020/Sheetpan-Ratatouille-7.jpg?w=667&auto=compress,format&fit=crop&fp-x=0.5&fp-y=0.5&dm=1599768806&s=c25393aec38f15e13ad135bfc5da56ef","width":"667"},{"@type":"ImageObject","description":"1x1 photo","height":1200,"name":"1x1","url":"https://images.themodernproper.com/billowy-turkey/production/posts/2020/Sheetpan-Ratatouille-7.jpg?w=1200&h=1200&q=82&fm=jpg&fit=crop&fp-x=0.5&fp-y=0.5&dm=1599768806&s=7a8b0fd17fdc7d37540aa7140fff6286","width":1200},{"@type":"ImageObject","height":630,"url":"https://images.themodernproper.com/billowy-turkey/production/posts/2020/Sheetpan-Ratatouille-7.jpg?w=1200&h=630&q=82&fm=jpg&fit=crop&fp-x=0.5&fp-y=0.5&dm=1599768806&s=643880cd5f07f2866b4c8cfc179443b3","width":1200},{"@type":"ImageObject","height":418,"url":"https://images.themodernproper.com/billowy-turkey/production/posts/2020/Sheetpan-Ratatouille-7.jpg?w=800&h=418&q=82&fm=jpg&fit=crop&fp-x=0.5&fp-y=0.5&dm=1599768806&s=3b0a6a3d4323e442f3f11c6ea59e41c2","width":800}],"inLanguage":"en-us","keywords":"ratatouille sheet pan dinner with sausage,    spring, summer, fall, winter, diary-free, gluten-free, low-carb, whole-30, sheet-pan-meals","mainEntityOfPage":"https://themodernproper.com/ratatouille-sheet-pan-dinner-with-sausage","name":"Ratatouille Sheet Pan Dinner With Sausage","nutrition":{"@type":"NutritionInformation","calories":"493 calories","carbohydrateContent":"6 grams carbohydrates","cholesterolContent":"79 milligrams cholesterol","fatContent":"43 grams fat","fiberContent":"2 grams fiber","proteinContent":"19 grams protein","saturatedFatContent":"11 grams saturated fat","servingSize":"6","sodiumContent":"1103 milligrams sodium","sugarContent":"3 grams sugar"},"potentialAction":{"@type":"SearchAction","query-input":"required name=search_term_string","target":"https://themodernproper.com/search?q={search_term_string}"},"publisher":{"@id":"https://themodernproper.com#creator"},"recipeCategory":"lunch, dinner, diary-free, gluten-free, low-carb, whole-30, sheet-pan-meals","recipeCuisine":"French","recipeIngredient":["1 (20 oz) package mild Italian sausage (turkey, chicken, pork or vegan sausage substitute links)","½ onion, sliced","1 small zucchini, sliced ½” sliced","1 small yellow squash, ½” sliced","1 small eggplant, ½” sliced","1 pint cherry or grape tomatoes","4 garlic cloves, thinly sliced (or smashed and roughly chopped)","½ cup olive oil","1 tsp salt","1 tbsp fresh basil, packed, minced","1 tbsp fresh thyme, packed, minced","creamy polenta, for serving, optional"],"recipeInstructions":[{"@type":"HowToStep","text":"Heat oven to 400°F.Place the onion, zucchini, yellow squash, eggplant, tomatoes and garlic on a rimmed baking sheet"},{"@type":"HowToStep","text":"Drizzle with ½ cup olive oil, sprinkle with salt and fresh thyme"},{"@type":"HowToStep","text":"Toss until evenly coated.Nestle the sausages into the veggies"},{"@type":"HowToStep","text":"Bake for 40 minutes until the vegetables are very tender and the sausage is browned"},{"@type":"HowToStep","text":"Sprinkle with fresh basil"},{"@type":"HowToStep","text":"**Serve by its self or over our creamy polenta recipe"}],"recipeYield":6,"review":[{"@type":"Review","author":{"@type":"Person","name":"A.Cleary"},"reviewBody":"This recipe is quick, easy, and received rave reviews.  I used sweet Italian chicken sausage and just a sprinkle of raw sugar before baking.  Chopped the eggplant rather than rings.","reviewRating":{"@type":"Rating","ratingValue":"5"}},{"@type":"Review","author":{"@type":"Person","name":"Linda"},"reviewBody":"Definitely a tasty way to incorporate a lot of veggies! We've made this a couple times and like to add in mushrooms.","reviewRating":{"@type":"Rating","ratingValue":"5"}},{"@type":"Review","author":{"@type":"Person","name":"Annie Dunn"},"reviewBody":"Another favorite from your site - we've made it twice this month already trying different flavors of chicken sausage. THANK YOU for posting such easy, healthy, fast and most importantly YUMMY recipes! I'm officially hooked on you site!","reviewRating":{"@type":"Rating","ratingValue":"5"}}],"url":"https://themodernproper.com/ratatouille-sheet-pan-dinner-with-sausage"},{"@id":"https://themodernproper.com#identity","@type":"CreativeWork","alternateName":"TMP","description":"Holly Erickson and Natalie Mortimer became friends over a shared love for food and hosting. The Modern Proper exists to empower people to cherish their loved ones and feed them well by providing a large library of beautiful and delicious recipes.","image":{"@type":"ImageObject","height":"1081","url":"https://images.themodernproper.com/billowy-turkey/production/global/tmp_seo-image.jpg?w=1921&auto=compress,format&fit=crop&fp-x=0.5&fp-y=0.5&crop=focalpoint&s=de2cb52cf2fe951f99f322c3bca15c5e","width":"1921"},"inLanguage":"en-us","name":"The Modern Proper","sameAs":["https://twitter.com/themodernproper","https://www.facebook.com/themodernproper","https://www.youtube.com/channel/UCj9cAdyH3CgEigdbx6sqEyA","https://www.instagram.com/themodernproper","https://www.pinterest.com/themodernproper"],"url":"https://themodernproper.com"},{"@id":"#creator","@type":"Person","address":{"@type":"PostalAddress","addressCountry":"US","addressLocality":"Vancouver","addressRegion":"WA","postalCode":"98661"},"alternateName":"mortscode","birthPlace":"San Francisco, CA","description":"Designer/Developer in Portland, OR","email":"scot.mortimer@gmail.com","gender":"Male","image":{"@type":"ImageObject","height":"1042","url":"https://images.themodernproper.com/billowy-turkey/production/global/MCO-logo-05.png?w=1042&auto=compress,format&fit=crop&fp-x=0.5&fp-y=0.5&crop=focalpoint&s=da502293f97e569eb707359f1d14cf64","width":"1042"},"name":"Scot Mortimer"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://themodernproper.com","name":"Home","position":1},{"@type":"ListItem","item":"https://themodernproper.com/ratatouille-sheet-pan-dinner-with-sausage","name":"Ratatouille Sheet Pan Dinner With Sausage","position":2}],"name":"Breadcrumbs"}]}
+{
+    "@context":"https://schema.org",
+    "@graph":[
+       {
+          "@type":"Organization",
+          "@id":"https://www.recipetineats.com/#organization",
+          "name":"RecipeTin Eats",
+          "url":"https://www.recipetineats.com/",
+          "sameAs":[
+             "https://www.facebook.com/RecipeTinEats",
+             "http://instagram.com/recipe_tin",
+             "https://www.linkedin.com/in/nagi-maehashi-9779648b",
+             "https://www.youtube.com/c/recipetineats",
+             "http://www.pinterest.com/recipetin/"
+          ],
+          "logo":{
+             "@type":"ImageObject",
+             "@id":"https://www.recipetineats.com/#logo",
+             "inLanguage":"en-US",
+             "url":"https://www.recipetineats.com/wp-content/uploads/2019/04/RecipeTinEats_logo_for_Knowledge_Graph_card.png",
+             "contentUrl":"https://www.recipetineats.com/wp-content/uploads/2019/04/RecipeTinEats_logo_for_Knowledge_Graph_card.png",
+             "width":2591,
+             "height":347,
+             "caption":"RecipeTin Eats"
+          },
+          "image":{
+             "@id":"https://www.recipetineats.com/#logo"
+          }
+       },
+       {
+          "@type":"WebSite",
+          "@id":"https://www.recipetineats.com/#website",
+          "url":"https://www.recipetineats.com/",
+          "name":"RecipeTin Eats",
+          "description":"Fast Prep, Big Flavours",
+          "publisher":{
+             "@id":"https://www.recipetineats.com/#organization"
+          },
+          "potentialAction":[
+             {
+                "@type":"SearchAction",
+                "target":{
+                   "@type":"EntryPoint",
+                   "urlTemplate":"https://www.recipetineats.com/?s={search_term_string}"
+                },
+                "query-input":"required name=search_term_string"
+             }
+          ],
+          "inLanguage":"en-US"
+       },
+       {
+          "@type":"ImageObject",
+          "@id":"https://www.recipetineats.com/classic-pumpkin-soup/#primaryimage",
+          "inLanguage":"en-US",
+          "url":"https://www.recipetineats.com/wp-content/uploads/2017/10/Pumpkin-Soup-2.jpg",
+          "contentUrl":"https://www.recipetineats.com/wp-content/uploads/2017/10/Pumpkin-Soup-2.jpg",
+          "width":900,
+          "height":1260,
+          "caption":"Close up of dunking crusty bread into thick and creamy pumpkin soup in a rustic white enamel bowl."
+       },
+       {
+          "@type":"WebPage",
+          "@id":"https://www.recipetineats.com/classic-pumpkin-soup/#webpage",
+          "url":"https://www.recipetineats.com/classic-pumpkin-soup/",
+          "name":"Pumpkin Soup | RecipeTin Eats",
+          "isPartOf":{
+             "@id":"https://www.recipetineats.com/#website"
+          },
+          "primaryImageOfPage":{
+             "@id":"https://www.recipetineats.com/classic-pumpkin-soup/#primaryimage"
+          },
+          "datePublished":"2020-04-13T09:00:47+00:00",
+          "dateModified":"2021-09-28T06:56:21+00:00",
+          "description":"A classic, super easy pumpkin soup that's fast to make. Thick, creamy and dreamy, with sweet pumpkin flavour and great savoury undertones!",
+          "breadcrumb":{
+             "@id":"https://www.recipetineats.com/classic-pumpkin-soup/#breadcrumb"
+          },
+          "inLanguage":"en-US",
+          "potentialAction":[
+             {
+                "@type":"ReadAction",
+                "target":[
+                   "https://www.recipetineats.com/classic-pumpkin-soup/"
+                ]
+             }
+          ]
+       },
+       {
+          "@type":"BreadcrumbList",
+          "@id":"https://www.recipetineats.com/classic-pumpkin-soup/#breadcrumb",
+          "itemListElement":[
+             {
+                "@type":"ListItem",
+                "position":1,
+                "name":"Home",
+                "item":"https://www.recipetineats.com/"
+             },
+             {
+                "@type":"ListItem",
+                "position":2,
+                "name":"Soups",
+                "item":"https://www.recipetineats.com/category/soup-recipes/"
+             },
+             {
+                "@type":"ListItem",
+                "position":3,
+                "name":"Pumpkin Soup"
+             }
+          ]
+       },
+       {
+          "@type":"Article",
+          "@id":"https://www.recipetineats.com/classic-pumpkin-soup/#article",
+          "isPartOf":{
+             "@id":"https://www.recipetineats.com/classic-pumpkin-soup/#webpage"
+          },
+          "author":{
+             "@id":"https://www.recipetineats.com/#/schema/person/1d495a057e0419b552333c8526d827a9"
+          },
+          "headline":"Pumpkin Soup",
+          "datePublished":"2020-04-13T09:00:47+00:00",
+          "dateModified":"2021-09-28T06:56:21+00:00",
+          "wordCount":1247,
+          "commentCount":590,
+          "publisher":{
+             "@id":"https://www.recipetineats.com/#organization"
+          },
+          "image":{
+             "@id":"https://www.recipetineats.com/classic-pumpkin-soup/#primaryimage"
+          },
+          "thumbnailUrl":"https://www.recipetineats.com/wp-content/uploads/2017/10/Pumpkin-Soup-2.jpg",
+          "keywords":[
+             "Fast",
+             "Healthy",
+             "Soup",
+             "Vegan",
+             "Vegetarian"
+          ],
+          "articleSection":[
+             "15 Minute Meals",
+             "Coronavirus Food",
+             "Low Calorie",
+             "Main Dishes",
+             "Nagi's Picks",
+             "Pumpkin recipes",
+             "Quick and Easy",
+             "Quick Dinner Recipes",
+             "Soups",
+             "Vegan recipes",
+             "Vegetarian Recipes",
+             "Winter Warmers"
+          ],
+          "inLanguage":"en-US",
+          "potentialAction":[
+             {
+                "@type":"CommentAction",
+                "name":"Comment",
+                "target":[
+                   "https://www.recipetineats.com/classic-pumpkin-soup/#respond"
+                ]
+             }
+          ]
+       },
+       {
+          "@type":"Person",
+          "@id":"https://www.recipetineats.com/#/schema/person/1d495a057e0419b552333c8526d827a9",
+          "name":"Nagi",
+          "image":{
+             "@type":"ImageObject",
+             "@id":"https://www.recipetineats.com/#personlogo",
+             "inLanguage":"en-US",
+             "url":"https://secure.gravatar.com/avatar/400004f5258d5b43d30deed3aa6e9566?s=96&d=https%3A%2F%2Fwww.recipetineats.com%2Fwp-content%2Fthemes%2Fonce-coupled-recipe-tin-eats%2Fassets%2Fimages%2Favatar-guest-temp-cache-bust-duplicate.png&r=g",
+             "contentUrl":"https://secure.gravatar.com/avatar/400004f5258d5b43d30deed3aa6e9566?s=96&d=https%3A%2F%2Fwww.recipetineats.com%2Fwp-content%2Fthemes%2Fonce-coupled-recipe-tin-eats%2Fassets%2Fimages%2Favatar-guest-temp-cache-bust-duplicate.png&r=g",
+             "caption":"Nagi"
+          },
+          "description":"I believe you can make great food with everyday ingredients even if you\u2019re short on time and cost conscious. You just need to cook clever and get creative!",
+          "sameAs":[
+             "http:////www.recipetineats.com/about-me/"
+          ]
+       },
+       {
+          "@context":"http://schema.org/",
+          "@type":"Recipe",
+          "name":"Pumpkin Soup - Classic and Easy",
+          "author":{
+             "@type":"Person",
+             "name":"Nagi | RecipeTin Eats"
+          },
+          "description":"Recipe VIDEO above. Just a touch of cream adds a hint of luxury to this super easy pumpkin soup! If you don&#x27;t have cream, use milk or add a knob of butter. Make this with any type of pumpkin OR butternut squash / butternut pumpkin (same thing!). FLAVOUR VARIATIONS - see list in post above (includes quantities).",
+          "datePublished":"2020-04-13T19:00:47+00:00",
+          "image":[
+             "https://www.recipetineats.com/wp-content/uploads/2017/10/Pumpkin-Soup-2.jpg",
+             "https://www.recipetineats.com/wp-content/uploads/2017/10/Pumpkin-Soup-2.jpg?w=500&h=500&crop=1",
+             "https://www.recipetineats.com/wp-content/uploads/2017/10/Pumpkin-Soup-2.jpg?w=500&h=375&crop=1",
+             "https://www.recipetineats.com/wp-content/uploads/2017/10/Pumpkin-Soup-2.jpg?w=480&h=270&crop=1"
+          ],
+          "recipeYield":[
+             "4",
+             "4 - 6"
+          ],
+          "prepTime":"PT5M",
+          "cookTime":"PT10M",
+          "totalTime":"PT15M",
+          "recipeIngredient":[
+             "1.2 kg / 2.4 lb  pumpkin (any type) OR butternut squash (, unpeeled weight (Note 1))",
+             "1  onion, sliced  ((white, brown, yellow))",
+             "2  garlic cloves (, peeled whole)",
+             "3 cups  (750ml)  vegetable or chicken broth/stock (, low sodium)",
+             "1 cup  (250 ml)  water",
+             "Salt and pepper",
+             "1/2 - 3/4 cup (125 - 185 ml)  cream (, half and half or milk (Note 2))"
+          ],
+          "recipeInstructions":[
+             {
+                "@type":"HowToStep",
+                "text":"Cut the pumpkin into 3cm / 2.25&quot; slices. Cut the skin off and scrape seeds out (video is helpful). Cut into 4cm / 1.5&quot; chunks.",
+                "name":"Cut the pumpkin into 3cm / 2.25&quot; slices. Cut the skin off and scrape seeds out (video is helpful). Cut into 4cm / 1.5&quot; chunks.",
+                "url":"https://www.recipetineats.com/classic-pumpkin-soup/#wprm-recipe-23421-step-0-0"
+             },
+             {
+                "@type":"HowToStep",
+                "text":"Place the pumpkin, onion, garlic, broth and water in a pot - liquid won&#x27;t quite cover all the pumpkin. Bring to a boil, uncovered, then reduce heat and let simmer rapidly until pumpkin is tender (check with butter knife) - about 10 minutes.",
+                "name":"Place the pumpkin, onion, garlic, broth and water in a pot - liquid won&#x27;t quite cover all the pumpkin. Bring to a boil, uncovered, then reduce heat and let simmer rapidly until pumpkin is tender (check with butter knife) - about 10 minutes.",
+                "url":"https://www.recipetineats.com/classic-pumpkin-soup/#wprm-recipe-23421-step-0-1"
+             },
+             {
+                "@type":"HowToStep",
+                "text":"Remove from heat and use a stick blender to blend until smooth (Note 3 for blender).",
+                "name":"Remove from heat and use a stick blender to blend until smooth (Note 3 for blender).",
+                "url":"https://www.recipetineats.com/classic-pumpkin-soup/#wprm-recipe-23421-step-0-2"
+             },
+             {
+                "@type":"HowToStep",
+                "text":"Season to taste with salt and pepper, stir through cream (never boil soup after adding soup, cream will split).&nbsp;",
+                "name":"Season to taste with salt and pepper, stir through cream (never boil soup after adding soup, cream will split).&nbsp;",
+                "url":"https://www.recipetineats.com/classic-pumpkin-soup/#wprm-recipe-23421-step-0-3"
+             },
+             {
+                "@type":"HowToStep",
+                "text":"Ladle soup into bowls, drizzle over a bit of cream, sprinkle with pepper and parsley if desired. Serve with crusty bread!",
+                "name":"Ladle soup into bowls, drizzle over a bit of cream, sprinkle with pepper and parsley if desired. Serve with crusty bread!",
+                "url":"https://www.recipetineats.com/classic-pumpkin-soup/#wprm-recipe-23421-step-0-4"
+             }
+          ],
+          "aggregateRating":{
+             "@type":"AggregateRating",
+             "ratingValue":"5",
+             "ratingCount":"142"
+          },
+          "recipeCategory":[
+             "Soup"
+          ],
+          "recipeCuisine":[
+             "Western"
+          ],
+          "keywords":"Pumpkin Soup",
+          "nutrition":{
+             "@type":"NutritionInformation",
+             "servingSize":"561 g",
+             "calories":"189 kcal",
+             "carbohydrateContent":"22 g",
+             "proteinContent":"3 g",
+             "fatContent":"11 g",
+             "saturatedFatContent":"6 g",
+             "cholesterolContent":"40 mg",
+             "sodiumContent":"723 mg",
+             "fiberContent":"1 g",
+             "sugarContent":"9 g"
+          },
+          "@id":"https://www.recipetineats.com/classic-pumpkin-soup/#recipe",
+          "isPartOf":{
+             "@id":"https://www.recipetineats.com/classic-pumpkin-soup/#article"
+          },
+          "mainEntityOfPage":"https://www.recipetineats.com/classic-pumpkin-soup/#webpage"
+       }
+    ]
+ }
