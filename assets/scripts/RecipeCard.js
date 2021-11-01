@@ -1,7 +1,8 @@
 class RecipeCard extends HTMLElement {
   constructor() {
     // Part 1 Expose - TODO
-
+    super();
+    this.shadow = this.attachShadow({mode: 'open'});
     // You'll want to attach the shadow DOM here
   }
 
@@ -87,6 +88,7 @@ class RecipeCard extends HTMLElement {
 
     // Here's the root element that you'll want to attach all of your other elements to
     const card = document.createElement('article');
+   
 
     // Some functions that will be helpful here:
     //    document.createElement()
@@ -100,6 +102,68 @@ class RecipeCard extends HTMLElement {
     // created in the constructor()
 
     // Part 1 Expose - TODO
+    this.shadow.appendChild(card);
+    this.shadow.appendChild(styleElem);
+
+    //img 
+    const img1 = document.createElement('img');
+    img1.setAttribute('src', searchForKey(data, 'thumbnailUrl'));
+    img1.setAttribute('alt', searchForKey(data, 'headline'));
+    card.appendChild(img1);
+
+    //p class title
+    const p1 = document.createElement('p');
+    p1.setAttribute('class', 'title')
+    const a1 = document.createElement('a');
+    a1.setAttribute('href', searchForKey(data, 'url'));
+    a1.textContent = searchForKey(data,'headline');;
+    p1.append(a1);
+    card.appendChild(p1);
+
+
+    const p2 = document.createElement('p');
+    p2.setAttribute('class', 'organization');
+    p2.textContent = getOrganization(data);
+    card.appendChild(p2);
+
+
+    const d1 = document.createElement('div');
+    d1.setAttribute('class', 'rating');
+    const s1 = document.createElement('span');
+    let rating = searchForKey(data, 'ratingValue');
+    if(typeof(rating) == 'undefined'){
+      s1.textContent = "No Reviews";
+    }
+    else{
+      s1.textContent = rating;
+      const img2 = document.createElement('img');
+      img2.setAttribute('src', 'assets/images/icons/' + Math.floor(rating).toString() + '-star.svg');
+      const s2 = document.createElement('span');
+      let numRating = s2.textContent = '(' + searchForKey(data, 'ratingCount') + ')';
+      d1.append(img2);
+      d1.append(s2);
+    }
+    
+    d1.append(s1);
+    card.appendChild(d1);
+
+
+    const time = document.createElement('time');
+    time.textContent = convertTime(searchForKey(data, 'totalTime'));
+    card.append(time);
+
+
+    const p3 = document.createElement('p');
+    p3.setAttribute('class', 'ingredients');
+    p3.textContent = searchForKey(data, 'recipeIngredient');
+    card.appendChild(p3);
+
+
+
+
+
+
+
   }
 }
 
